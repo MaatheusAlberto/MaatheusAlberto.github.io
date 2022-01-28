@@ -10,8 +10,8 @@ html, body{
 body{
     font-family: 'Raleway', sans-serif;
     color: white;
-    background: rgb(19,19,218);
-    background: linear-gradient(176deg, rgba(19,19,218,1) 35%, rgba(8,8,68,1) 80%);
+    background: rgb(1, 153, 255);
+    background: linear-gradient(176deg, rgba(1, 153, 255,1) 35%);
 }
 
 .avatar{
@@ -89,5 +89,5 @@ h2 {
 footer{
     display: block;
     text-align: center;
-    background: rgb(19,19,218);
+    background: rgb(1, 131, 254);
 }
